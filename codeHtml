@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>this is html test doc</title>
+</head>
+
+<body>
+<script>
+document.getElementById("demo").innerHTML = "Hello JavaScript!";
+</script>
+</body>
+
+</html>
