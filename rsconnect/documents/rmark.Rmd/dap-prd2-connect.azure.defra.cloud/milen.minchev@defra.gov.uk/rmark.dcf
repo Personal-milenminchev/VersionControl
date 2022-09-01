@@ -1,0 +1,13 @@
+name: rmark
+title: rmark
+username: milen.minchev@defra.gov.uk
+account: milen.minchev@defra.gov.uk
+server: dap-prd2-connect.azure.defra.cloud
+hostUrl: https://dap-prd2-connect.azure.defra.cloud/__api__
+appId: 33
+bundleId: 27
+url: https://dap-prd2-connect.azure.defra.cloud/content/33/
+when: 1661959793.76449
+lastSyncTime: 1661959793.76451
+asMultiple: FALSE
+asStatic: FALSE
